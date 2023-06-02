@@ -1,0 +1,38 @@
+<?php
+$aMenuLinks = Array(
+    Array(
+        "Духовенство",
+        "cleric/",
+        Array(),
+        Array(),
+        ""
+    ),
+	Array(
+		"События",
+		"news/",
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Социальная работа",
+		"social/",
+		Array(),
+		Array(),
+		""
+	),
+    Array(
+        "Фотогалерея",
+        "photogallery/",
+        Array(),
+        Array(),
+        ""
+    ),
+    Array(
+        "Видеотека",
+        "video/",
+        Array(),
+        Array(),
+        ""
+    )
+);

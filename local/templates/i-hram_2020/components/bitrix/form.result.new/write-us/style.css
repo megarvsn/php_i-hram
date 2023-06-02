@@ -1,0 +1,19 @@
+.contact-form .feedback-form .required-field:after {right: -10px !important;}
+.contact-form input, .contact-form textarea {margin-bottom: 10px !important;}
+.contact-form .submit-button {width: 140px !important; margin-top: 0 !important;}
+
+.captcha-box {margin-bottom: 20px;}
+.captcha-box .captcha-container img, .captcha-box .captcha-container .input-captcha {width: 100% !important;}
+.captcha-box .captcha-container:first-child {float: left; width: 40%;}
+.captcha-box .captcha-container:last-child {float: right; margin-right: 10px; width: 40%;}
+.header-captcha {text-align: right; margin-right: 10px;}
+
+.contact-form .error-fld {z-index: 1; position: relative;float: right; margin: -35px 0 0; height: 13px; width: 15px;
+    background-repeat: no-repeat; background-image: url(images/icon_warn.png);}
+.contact-form .form-required {font-size: 20px; color: red;}
+.required-sign  p {margin: -10px 0 15px;}
+.contact-form .input-container {width: 97% !important;}
+.contact-form textarea {width: 100% !important;}
+.contact-form .success-text {color: green;}
+@media screen and (max-width: 480px) {.contact-form .input-container {width: 97% !important;}}
+@media screen and (max-width: 480px) {.contact-form textarea {width: 100% !important;}}
